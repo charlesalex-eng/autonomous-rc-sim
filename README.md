@@ -38,7 +38,7 @@ publicly as the project progresses.
 | BEC | Castle CC BEC 2.0 | Power distribution |
 | Compute | Jetson Orin Nano Super | Onboard inference |
 | Camera | OAK-D Lite | Stereo vision + depth |
-| LiDAR | RPLidar S2 | 2D scanning |
+| LiDAR | TBD | 2D scanning |
 | IMU | TBD | Inertial measurement |
 | GNSS | TBD Analyzer | Localization |
 
