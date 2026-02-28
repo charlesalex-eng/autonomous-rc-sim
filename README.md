@@ -30,11 +30,17 @@ publicly as the project progresses.
 - Python
 - Reinforcement learning (library TBD)
 
-## Hardware
-- Arrma Limitless Roller (1/7 scale, speed run platform)
-- Custom autonomous systems body (in design)
-- LiDAR, camera, IMU
-- ESC with real-time telemetry
+## Hardware Stack
+| Component | Part | Role |
+|-----------|------|------|
+| Motor | Lehner T3060 | Drive |
+| ESC | MGM TMM 25063-3 | Motor control |
+| BEC | Castle CC BEC 2.0 | Power distribution |
+| Compute | Jetson Orin Nano Super | Onboard inference |
+| Camera | OAK-D Lite | Stereo vision + depth |
+| LiDAR | RPLidar S2 | 2D scanning |
+| IMU | TBD | Inertial measurement |
+| GNSS | TBD Analyzer | Localization |
 
 ## Dev Log
 ### Week 1 — Project initialized
