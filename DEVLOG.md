@@ -17,10 +17,21 @@
 
 - Car Specs
     - Length: 730mm
-    - Width: 310mm (tire to tire, trackwidth)
+    - Width: 310mm (tire to tire, trackwidth) technically has a 2mm delta front/back, back = 312mm
     - Height: 165mm (this will be higher since I'm making a custom body)
     - Wheelbase: 406mm
     - Ground Clearance: 15mm
+    - Tires (toyo proxes replicas)
+        - Front width: 42mm
+        - Front diameter: 100mm
+        - Rear width: 53mm
+        - Rear diameter: 107mm
+    - Front hub height: 41.3mm
+    - Rear hub height: 28.6mm
+        - 12.7mm chassis rake for speedruns
+
+- Importing URDF to USD (fusion 360 -> Isaac SIM format)
+    - video: https://www.youtube.com/watch?v=AMfEtZ4hyLY
 
 ### Open questions
 - What RL library to use
