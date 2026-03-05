@@ -32,6 +32,7 @@
 
 - Importing URDF to USD (fusion 360 -> Isaac SIM format)
     - video: https://www.youtube.com/watch?v=AMfEtZ4hyLY
+    - uploaded cad model and URDF for joints, waiting for isaac sim download
 
 ### Open questions
 - What RL library to use
